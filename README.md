@@ -1,4 +1,4 @@
-### Hi, I'm Filip Bengtegård Book
+### Hi, I'm Filip Book
 
 - 🎓 I'm a third year Systems Developer student @ Malmö University
 - 🖥️ I've been coding in Java primarly for over 2 years
