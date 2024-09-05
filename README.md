@@ -5,12 +5,13 @@
 - 🌱 I'm learning C and Performance Aware Programming at the moment
 - 🔭 I’m currently working on a simulator for the 8086 processor
 - 📫 You can reach me at bengtegardbook@gmail.com
-
+<!--
 ![](https://raw.githubusercontent.com/insanityandme/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/insanityandme/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 ![](https://raw.githubusercontent.com/insanityandme/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/insanityandme/github-stats/master/generated/languages.svg#gh-light-mode-only)
+-->
 <!--
 **Insanityandme/insanityandme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
