@@ -3,7 +3,7 @@
 - 🎓 I'm a third year Systems Developer student @ Malmö University
 - 🖥️ I've been coding in Java primarly for over 2 years
 - 🌱 I'm learning C and Performance Aware Programming at the moment
-- 🔭 I’m currently working on a simulator for the 8086 processor
+- 🔭 I’m currently working on a profiler to measure my programs execution time
 - 📫 You can reach me at bengtegardbook@gmail.com
 <!--
 ![](https://raw.githubusercontent.com/insanityandme/github-stats/master/generated/overview.svg#gh-dark-mode-only)
