@@ -1,9 +1,9 @@
 ### Hi, I'm Filip Book
 
 - 🎓 I'm a third year Systems Developer student @ Malmö University
-- 🖥️ I've been coding in Java primarly for over 2 years
-- 🌱 I'm learning C and Performance Aware Programming at the moment
-- 🔭 I’m currently working on a profiler to learn about measuring performance
+- 🖥️ I've been coding in Java and Typescript primarly for over 2 years
+- 🌱 I'm learning linux development and Typescript at the moment
+- 🔭 I’m currently working on a data transformation tool for [Voyado](https://voyado.com/) as part of my Bachelor Thesis
 - 📫 You can reach me at bengtegardbook@gmail.com
 <!--
 ![](https://raw.githubusercontent.com/insanityandme/github-stats/master/generated/overview.svg#gh-dark-mode-only)
