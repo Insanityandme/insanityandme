@@ -2,8 +2,8 @@
 
 - 🎓 I'm a third year Systems Developer student @ Malmö University
 - 🖥️ I've been coding in Java and Typescript primarly for over 2 years
-- 🌱 I'm learning Linux development and Typescript at the moment
-- 🔭 I’m currently working on a data transformation tool for [Voyado](https://voyado.com/) as part of my Bachelor Thesis
+- 🌱 I'm learning Linux development and further developing my Typescript skills at the moment
+- 🔭 I’m currently working on a data transformation tool as part of my Bachelor Thesis
 - 📫 You can reach me at bengtegardbook@gmail.com
 <!--
 ![](https://raw.githubusercontent.com/insanityandme/github-stats/master/generated/overview.svg#gh-dark-mode-only)
