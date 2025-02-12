@@ -1,9 +1,9 @@
-### Hi, I'm Filip Book
+### Hi, I'm Filip Bengtegård Book
 
 - 🎓 I'm a third year Systems Developer student @ Malmö University
-- 🖥️ I've been coding in Java primarly for soon to be 3 years
+- 🖥️ I've been coding in Java primarly for 3 years
 - 🌱 I'm learning Linux development and further developing my Typescript skills at the moment
-- 🔭 I’m currently working on my Bachelor Thesis @ [Voyado](https://voyado.com/)
+- 🔭 I’m currently working on my Bachelor Thesis at [Voyado](https://voyado.com/)
 - 📫 You can reach me at bengtegardbook@gmail.com
 <!--
 ![](https://raw.githubusercontent.com/insanityandme/github-stats/master/generated/overview.svg#gh-dark-mode-only)
