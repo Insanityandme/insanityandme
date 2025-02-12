@@ -1,6 +1,6 @@
 ### Hi, I'm Filip Bengtegård Book
 
-- 🎓 I'm a third year Systems Developer student @ Malmö University
+- 🎓 I'm a third year Systems Developer student at Malmö University
 - 🖥️ I've been coding in Java primarly for 3 years
 - 🌱 I'm learning Linux development and further developing my Typescript skills at the moment
 - 🔭 I’m currently working on my Bachelor Thesis at [Voyado](https://voyado.com/)
