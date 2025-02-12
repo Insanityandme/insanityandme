@@ -1,7 +1,7 @@
 ### Hi, I'm Filip Book
 
 - 🎓 I'm a third year Systems Developer student @ Malmö University
-- 🖥️ I've been coding in Java and Typescript primarly for over 2 years
+- 🖥️ I've been coding in Java primarly for soon to be 3 years
 - 🌱 I'm learning Linux development and further developing my Typescript skills at the moment
 - 🔭 I’m currently working on my Bachelor Thesis @ [Voyado](https://voyado.com/)
 - 📫 You can reach me at bengtegardbook@gmail.com
