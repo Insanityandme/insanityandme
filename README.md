@@ -32,12 +32,12 @@
 
 ## Featured Projects
 
-### Marketplace ([Github Repo](https://github.com/Insanityandme/marketplace) | Next.js, Spring Boot, PostgreSQL
+### Marketplace ([Github Repo](https://github.com/Insanityandme/marketplace) | Next.js, Spring Boot, PostgreSQL)
 - Built a responsive marketplace web app with product listings, images, and search functionality.
 - Designed and implemented APIs for creating products, uploading images and ordering products.
 - Skills developed include: Java, TypeScript, API Design, Unit and Integration Testing, DB Design.
 
-### Evacuation Assistance ([Github Repo](https://github.com/Insanityandme/evacuation-assistance) | Spring Boot, VueJS, Ionic, PostgreSQL, Firebase
+### Evacuation Assistance ([Github Repo](https://github.com/Insanityandme/evacuation-assistance) | Spring Boot, VueJS, Ionic, PostgreSQL, Firebase)
 - A smartphone application that can help users involved in an evacuation communicate faster and more efficiently.
 - Built as a web application using the Ionic SDK and then compiled for Android and iOS.  
 - Used Bluetooth positioning sensors for implementing indoor positioning.
