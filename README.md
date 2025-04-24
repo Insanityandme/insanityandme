@@ -13,7 +13,6 @@
 -->
 <!--
 **Insanityandme/insanityandme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 
 ## Work Experience
@@ -49,6 +48,8 @@
 
 ## Technical Skills
 Here are some of the technologies I've worked with thus far:
+-->
+
 
 | **Category**                   | **Technologies**                                                                            |
 |--------------------------------|---------------------------------------------------------------------------------------------|
