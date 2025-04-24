@@ -48,7 +48,6 @@
 
 ## Technical Skills
 Here are some of the technologies I've worked with thus far:
--->
 
 
 | **Category**                   | **Technologies**                                                                            |
@@ -60,3 +59,4 @@ Here are some of the technologies I've worked with thus far:
 
 ## Contact
 **[LinkedIn](https://www.linkedin.com/in/bengtegard/)**
+-->
